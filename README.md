@@ -15,3 +15,30 @@ He desarrollado proyectos enfocados en análisis de datos, construcción de dash
 Mi experiencia profesional en el sector público y mi formación en Psicología y Gestión Estratégica de Capital Humano complementan mi perfil analítico con una perspectiva orientada a las personas, los procesos y las organizaciones.
 
 Actualmente continúo fortaleciendo mis habilidades en Power BI, SQL, Excel y Python, con interés en desarrollarme profesionalmente en Data Analytics y Business Intelligence.
+
+---
+
+## 🛠️ Habilidades técnicas
+
+**Análisis y Business Intelligence**
+- Power BI
+- Análisis de KPIs
+- Creación de dashboards
+- Visualización de datos
+
+**Datos y consultas**
+- SQL
+- Excel
+- Google Sheets
+- Limpieza y validación de datos
+
+**Programación y análisis**
+- Python
+- Pandas
+- Análisis exploratorio de datos
+
+**Análisis de negocio**
+- Análisis de rentabilidad
+- Funnels de conversión
+- Análisis de retención
+- Elaboración de reportes
