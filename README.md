@@ -1,16 +1,17 @@
-## Hi there 👋
+# José Alberto Contreras Ramos
 
-<!--
-**josealbertoanalytics/josealbertoanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Business Intelligence
 
-Here are some ideas to get you started:
+📊 Power BI • SQL • Excel • Python • Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 Sobre mí
+
+Soy Analista de Datos con formación práctica en análisis, visualización y generación de reportes. Me interesa transformar datos en información clara que permita identificar tendencias, evaluar resultados y apoyar la toma de decisiones.
+
+He desarrollado proyectos enfocados en análisis de datos, construcción de dashboards, definición y seguimiento de KPIs, limpieza y validación de información, análisis de rentabilidad, conversión y retención.
+
+Mi experiencia profesional en el sector público y mi formación en Psicología y Gestión Estratégica de Capital Humano complementan mi perfil analítico con una perspectiva orientada a las personas, los procesos y las organizaciones.
+
+Actualmente continúo fortaleciendo mis habilidades en Power BI, SQL, Excel y Python, con interés en desarrollarme profesionalmente en Data Analytics y Business Intelligence.
