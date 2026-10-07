@@ -55,3 +55,13 @@ Proyecto de Business Intelligence desarrollado en Power BI para analizar indicad
 **Herramientas:** Power BI • Power Query • DAX • Modelado de datos
 
 👉 [Ver proyecto completo](https://github.com/josealbertoanalytics/rappiplus-inteligencia-empresarial)
+
+---
+
+### 📊 Análisis de Embudo y Retención | MercadoLibre
+
+Proyecto de análisis del comportamiento de usuarios enfocado en el embudo de conversión y la retención, identificando puntos de abandono, patrones por país y oportunidades de mejora a partir de los datos.
+
+**Herramientas:** SQL • Google Sheets • Análisis de funnel • Análisis de cohortes
+
+👉 [Ver proyecto completo](https://github.com/josealbertoanalytics/análisis-embudo-retención)
