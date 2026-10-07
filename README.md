@@ -65,3 +65,13 @@ Proyecto de análisis del comportamiento de usuarios enfocado en el embudo de co
 **Herramientas:** SQL • Google Sheets • Análisis de funnel • Análisis de cohortes
 
 👉 [Ver proyecto completo](https://github.com/josealbertoanalytics/análisis-embudo-retención)
+
+---
+
+### 🧹 Limpieza y Preparación de Datos
+
+Proyecto de análisis enfocado en la limpieza, transformación y preparación de datos de ventas para garantizar la calidad de la información y facilitar el análisis posterior de KPIs y desempeño por departamento.
+
+**Herramientas:** Google Sheets • Limpieza de datos • Tablas dinámicas • Análisis de KPIs
+
+👉 [Ver proyecto completo](https://github.com/josealbertoanalytics/limpieza-preparacion-datos)
